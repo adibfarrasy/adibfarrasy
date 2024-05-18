@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/adib-farrasy"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p><img src="https://komarev.com/ghpvc/?username=adibfarrasy&style=flat-square&color=blue" alt=""></p>
-<h2>My Tier List (2024)</h2>
-![image](https://github.com/adibfarrasy/adibfarrasy/assets/28698955/3af68640-9b8a-4deb-9100-4daf75a3dd77)
+<h2>My Programming Language Tier List (2024)</h2>
+<img src="https://github.com/adibfarrasy/adibfarrasy/assets/28698955/3af68640-9b8a-4deb-9100-4daf75a3dd77">
 
 <h2>Stats</h2>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adibfarrasy&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibfarrasy&layout=compact&theme=transparent&hide=jupyter%20notebook">
 </div>
