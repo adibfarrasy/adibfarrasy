@@ -41,8 +41,6 @@
 [![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/espressif/esp-idf)
 [![raspberry pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org)
 
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/hashicorp/terraform)
-
   <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibfarrasy&layout=compact&theme=transparent&hide=jupyter%20notebook&card_width=500">
 </div>
